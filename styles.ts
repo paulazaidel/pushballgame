@@ -7,6 +7,7 @@ export const styles = StyleSheet.create({
   },
   text: {
     color: 'white',
+    fontSize: 15,
   },
   area: {
     flex: 1,
